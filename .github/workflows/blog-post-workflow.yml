@@ -16,5 +16,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://thestackcanary.com/author/andres/rss/"
+          feed_list: "https://www.thestackcanary.com/author/andres/rss/"
           template: "$newline $counter. [$title]($url) - 🏷️ **Tags**: $categories $newline > $description $newline"
