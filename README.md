@@ -5,20 +5,20 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=4598e5e2b2b91e420a4cf609bc2ffc03&theme=transparent)](https://gist.github.com/acalejos/4598e5e2b2b91e420a4cf609bc2ffc03)
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
- 1. [Python NumPy to Elixir-Nx](https://www.thestackcanary.com/numpy-to-nx/) - 🏷️ **Tags**: Elixir, Python 
+ 1. [Elevate Your Elixir With Sigils](https://www.thestackcanary.com/elevate-your-elixir-with-sigils/) - 🏷️ **Tags**: Elixir 
+ > Adding support for real-valued intervals implementing the Enumerable Protocol in Elixir. 
+
+ 2. [Python NumPy to Elixir-Nx](https://www.thestackcanary.com/numpy-to-nx/) - 🏷️ **Tags**: Elixir, Python 
  > Learn how to leverage existing codebases from the Python ML ecosystem 
 
- 2. [Leveling Up Your Elixir Option Handling](https://www.thestackcanary.com/elixir-nimble-options/) - 🏷️ **Tags**: Elixir, Productivity 
+ 3. [Leveling Up Your Elixir Option Handling](https://www.thestackcanary.com/elixir-nimble-options/) - 🏷️ **Tags**: Elixir, Productivity 
  > With the NimbleOptions library, you can define powerful and flexible argument validation schemas.  
 
- 3. [Serving Spam Detection With XGBoost and Elixir](https://www.thestackcanary.com/serving-spam-detection-with-xgboost-and-elixir/) - 🏷️ **Tags**: Elixir, Machine Learning 
+ 4. [Serving Spam Detection With XGBoost and Elixir](https://www.thestackcanary.com/serving-spam-detection-with-xgboost-and-elixir/) - 🏷️ **Tags**: Elixir, Machine Learning 
  > Learn how to detect spam with XGBoost and Elixir and serve the model for production use.  
 
- 4. [Understanding the Elixir Machine Learning Ecosystem](https://www.thestackcanary.com/understanding-the-elixir-machine-learning-ecosystem/) - 🏷️ **Tags**: Elixir, Machine Learning 
+ 5. [Understanding the Elixir Machine Learning Ecosystem](https://www.thestackcanary.com/understanding-the-elixir-machine-learning-ecosystem/) - 🏷️ **Tags**: Elixir, Machine Learning 
  > An introduction to Machine Learning in Elixir through a glossary of libraries.  
-
- 5. [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/) - 🏷️ **Tags**: Elixir, Python, Machine Learning 
- > Moving on from Python Machine Learning might seem impossible. Let me break down why and how you can do it.  
 <!-- BLOG-POST-LIST:END -->
 
 --- 
