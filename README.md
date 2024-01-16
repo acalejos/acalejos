@@ -2,6 +2,8 @@
 
 ![Andres' GitHub stats](https://github-readme-stats.vercel.app/api?username=acalejos&theme=transparent&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acalejos&repo=phoenix-upload-pdf-preview&theme=transparent)](https://github.com/acalejos/phoenix-upload-pdf-preview)
+
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=4598e5e2b2b91e420a4cf609bc2ffc03&theme=transparent)](https://gist.github.com/acalejos/4598e5e2b2b91e420a4cf609bc2ffc03)
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
