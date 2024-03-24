@@ -7,20 +7,20 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=4598e5e2b2b91e420a4cf609bc2ffc03&theme=transparent)](https://gist.github.com/acalejos/4598e5e2b2b91e420a4cf609bc2ffc03)
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
- 1. [Plotting XGBoost Trees in Elixir](https://www.thestackcanary.com/plotting-xgboost-trees-in-elixir/) - 🏷️ **Tags**: Elixir, Machine Learning 
+ 1. [Livebook: Elixir&#39;s Swiss Army Knife](https://www.thestackcanary.com/elixirs-secret-weapon/) - 🏷️ **Tags**: Elixir 
+ > From learning, to prototyping, to production - Livebook can really do it all.  
+
+ 2. [Plotting XGBoost Trees in Elixir](https://www.thestackcanary.com/plotting-xgboost-trees-in-elixir/) - 🏷️ **Tags**: Elixir, Machine Learning 
  > XGBoost is one of the most popular Machine Learning tools. Here&#39;s how to make beautiful plots for it with Elixir. 
 
- 2. [Hacking Phoenix LiveUpload](https://www.thestackcanary.com/phoenix-liveuploads-pdf/) - 🏷️ **Tags**: Elixir, Elixir Tips, JavaScript 
+ 3. [Hacking Phoenix LiveUpload](https://www.thestackcanary.com/phoenix-liveuploads-pdf/) - 🏷️ **Tags**: Elixir, Elixir Tips, JavaScript 
  > Customizing Phoenix LiveUploads&#39;s Preview Images using PDF.js 
 
- 3. [Elevate Your Elixir With Sigils](https://www.thestackcanary.com/elevate-your-elixir-with-sigils/) - 🏷️ **Tags**: Elixir 
+ 4. [Elevate Your Elixir With Sigils](https://www.thestackcanary.com/elevate-your-elixir-with-sigils/) - 🏷️ **Tags**: Elixir 
  > Adding support for real-valued intervals implementing the Enumerable Protocol in Elixir. 
 
- 4. [Python NumPy to Elixir-Nx](https://www.thestackcanary.com/numpy-to-nx/) - 🏷️ **Tags**: Elixir, Python 
+ 5. [Python NumPy to Elixir-Nx](https://www.thestackcanary.com/numpy-to-nx/) - 🏷️ **Tags**: Elixir, Python 
  > Learn how to leverage existing codebases from the Python ML ecosystem 
-
- 5. [Leveling Up Your Elixir Option Handling](https://www.thestackcanary.com/elixir-nimble-options/) - 🏷️ **Tags**: Elixir, Productivity 
- > With the NimbleOptions library, you can define powerful and flexible argument validation schemas.  
 <!-- BLOG-POST-LIST:END -->
 
 --- 
